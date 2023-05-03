@@ -10,6 +10,8 @@ Step 8, vh - stands for viewport height and is relative to 1% of the height of t
 
 Step 9, get rid of horizontal scroll bar by setting body margin to 0
 
+Step 10, Now, change the body background-color to #1b1b32 and change the color to #f5f6f7.
+
 Step 12, method attribute specifies how to send form-data to the URL specfified in the action attribute.  
 The form data can be sent via a GET request as URL parameter or a POST request as data in the requested body 
 
